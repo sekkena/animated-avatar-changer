@@ -1,0 +1,60 @@
+{
+  "name": "animated-avatar-changer",
+  "version": "1.0.2",
+  "description": "Change Discord Bot Avatar To Dynamic (animated) Fast & Easy ",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "biskviit": "^1.0.1",
+    "console-log.js": "^2.0.1",
+    "data-uri-to-buffer": "^4.0.1",
+    "discord-api-types": "^0.37.61",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "encoding": "^0.1.12",
+    "fast-deep-equal": "^3.1.3",
+    "fetch": "^1.1.0",
+    "fetch-blob": "^3.2.0",
+    "formdata-polyfill": "^4.0.10",
+    "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.21",
+    "lodash.snakecase": "^4.1.1",
+    "magic-bytes.js": "^1.8.0",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "psl": "^1.9.0",
+    "safer-buffer": "^2.1.2",
+    "ts-mixer": "^6.0.3",
+    "tslib": "^2.6.2",
+    "undici": "^5.27.2",
+    "undici-types": "^5.26.5",
+    "web-streams-polyfill": "^3.3.2",
+    "ws": "^8.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekkena/animated-avatar-changer.git"
+  },
+  "keywords": [
+    "animated",
+    "gif",
+    "Discord",
+    "Npm",
+    "NodeJs",
+    "Typescript",
+    "Javascript",
+    "Js",
+    "sekkena2",
+    "bots",
+    "djs"
+  ],
+  "author": "sekkena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekkena/animated-avatar-changer/issues"
+  },
+  "homepage": "https://github.com/sekkena/animated-avatar-changer#readme"
+}
